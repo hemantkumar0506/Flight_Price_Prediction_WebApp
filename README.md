@@ -43,8 +43,10 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── README.md
 ├── app.py
 ├── flight_price.ipynb
-├── flight_rf.pkl
+├── XGB.pkl
 ├── requirements.txt
+├── runtime.txt
+├── LICENSE
 ```
 
 ## Technologies Used
